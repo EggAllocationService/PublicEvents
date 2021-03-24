@@ -1,0 +1,9 @@
+name: PublicEvents
+main: io.gitlab.kyleafmine.publicevents.PublicEvents
+author: EggAllocationService
+version: 1.0.0
+api-version: 1.13
+commands:
+  publicevents:
+    description: Main command for PublicEvents
+    aliases: [pe, events]
